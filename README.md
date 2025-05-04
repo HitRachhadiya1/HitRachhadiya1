@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Hit Rachhadiya from Gujrat,India<br><br>- 🔭 I’m Student of B.Tech. ICT at Marwadi University.<br>- 📚 I'm currently learning MERN Stack, Mobile App Development and Cloud Computing.<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Hit Rachhadiya from Gujrat,India<br><br>- 🔭 I’m Student of B.Tech. ICT at Marwadi University.<br>- 📚 I'm having basic knowledge of MERN Stack, Mobile App Development and Cloud Computing and currently working iproving these skills .<br>- ⚡ In my free time I play games</p>
 
 ###
 
