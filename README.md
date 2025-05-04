@@ -1,4 +1,15 @@
 
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Hit Rachhadiya from Gujrat,India<br><br>- 🔭 I’m Student of B.Tech. ICT at Marwadi University.<br>- 📚 I'm having basic knowledge of MERN Stack, Mobile App Development and Cloud Computing and currently working improving these skills .<br>- ⚡ In my free time I play games</p>
+
+###
 <div align="center">
   <a href="linkedin.com/in/hit-rachhadiya-0bb844347/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -10,18 +21,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HitRachhadiya1.HitRachhadiya1&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Hit Rachhadiya from Gujrat,India<br><br>- 🔭 I’m Student of B.Tech. ICT at Marwadi University.<br>- 📚 I'm having basic knowledge of MERN Stack, Mobile App Development and Cloud Computing and currently working improving these skills .<br>- ⚡ In my free time I play games</p>
 
 ###
 
