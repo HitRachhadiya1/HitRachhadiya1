@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Hit Rachhadiya from Gujrat,India<br><br>- 🔭 I’m Student of B.Tech. ICT at Marwadi University.<br>- 📚 I'm having basic knowledge of MERN Stack, Mobile App Development and Cloud Computing and currently working improving these skills .<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm an ICT graduate from Marwadi University (7.83 CGPA) with hands-on experience building React Native apps — two of mine are live on the Play Store. In 2025-26 I competed in IndiaSkills, India's national skills competition: Gold at State, Silver at Regional, and advanced to the National Finals, one of about 650 competitors selected nationwide from 3.65 lakh+ registrants — after learning Flutter and native Kotlin from scratch under real deadlines. Comfortable across the MERN stack, currently deepening Java and DSA, and documenting the process on YouTube. Open to software development roles.</p>
 
 ###
 <div align="center">
